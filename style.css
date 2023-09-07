@@ -9,10 +9,20 @@ h1 {
   color: darkgreen;
 }
 
+/* CLASSES */
 .lemon {
   color: lemonchiffon;
 }
 
+.apple {
+  color: greenyellow;
+}
+
+.lime {
+  color: lime;
+}
+
+/* ID */
 #blueBerry {
   color: mediumslateblue;
 }
